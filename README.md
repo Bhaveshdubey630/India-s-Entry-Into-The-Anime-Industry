@@ -8,4 +8,8 @@ The studio faces a lack of localized knowledge in producing anime that appeals t
 # Objective
 The objective of this project is to analyze historical anime data to identify key factors influencing anime popularity and success. This analysis will guide Nirmaan Animations in making informed decisions about genres, themes, production strategies, and release schedules.
 
+# Dashboard
+
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTY0ZWQ5YjItZWNlNS00NzNkLWJiYjgtY2IwNzBkMmRlYjRlIiwidCI6IjM4ZjYyOTI2LTc1NTktNGFlZi04NGFlLWNiNWUxNzI0MDZmYiJ9&pageName=9f92274749a760dd7086)
+
 
